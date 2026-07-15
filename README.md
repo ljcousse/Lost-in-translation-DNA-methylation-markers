@@ -2,7 +2,9 @@
 
 This repository contains the key methodological scripts written for our manuscript "Lost in translation: How CpG site selection and assay design determine the clinical value of cancer DNA methylation markers"
 
-Developed and tested on Windows 11, Python Version 3.10 and R Version 4.3.0.
+Developed and tested on a local Unix-based server, using bash scripting
+for workflow automation and Conda (Anaconda, Inc., 2023) for systematic package
+and dependency administration. Besides stand-alone tools all analyses were performed in R (version 4.3.2).  
 
 ### Obtain the code for this project
 
