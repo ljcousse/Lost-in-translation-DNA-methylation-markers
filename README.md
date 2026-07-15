@@ -28,7 +28,6 @@ Publication will hopefully be coming soon:
 
 Lost in translation: How CpG site selection and assay design determine the clinical value of cancer DNA methylation markers. Kim Lommen*, Louis Coussement*, Johan Vandersmissen, James G. Herman, Wim Van Criekinge, Kim M. Smits, Tim De Meyer**, Manon van Engeland**
 
-* co-first authors
-** co-last authors
+'*' co-first authors; '**' co-last authors
 
 
