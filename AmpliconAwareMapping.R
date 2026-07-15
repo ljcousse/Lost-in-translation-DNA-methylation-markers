@@ -13,7 +13,7 @@ setwd("/data/homes/louisc/Project_KimSmits/mapping_bis")
 #################
 
 files_list <- list.files()
-files_list <- files_list[grepl(".bam$",files_list)]
+files_list <- files_list[grepl("^run.*.bam$",files_list)]
 
 ######################
 # Load amplicon data #

@@ -8,6 +8,15 @@ meth/*
 meth_before_amplicon_aware/*
 Plots/*
 Human/*
+*_bef_*
+mapping_bis_sorted/*
+mapping_sorted/*
+output_wgbstools/*
+wgbs_tools/*
+wgbs_tools
+
+Check_TumorPurity.R
+
 
 *.pptm
 Test*
