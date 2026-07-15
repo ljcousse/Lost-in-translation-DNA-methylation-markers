@@ -3,7 +3,7 @@
 This repository contains the key methodological scripts written for our manuscript "Lost in translation: How CpG site selection and assay design determine the clinical value of cancer DNA methylation markers"
 
 Developed and tested on a local Unix-based server, using bash scripting
-for workflow automation and Conda (Anaconda, Inc., 2023) for systematic package
+for workflow automation and conda for systematic package
 and dependency administration. Besides stand-alone tools all analyses were performed in R (version 4.3.2).  
 
 ### Obtain the code for this project
@@ -12,6 +12,9 @@ and dependency administration. Besides stand-alone tools all analyses were perfo
 git lfs install
 git clone https://github.com/ljcousse/Lost-in-translation-DNA-methylation-markers.git
 cd Lost-in-translation-DNA-methylation-markers
+
+conda env create -f environment.yml
+conda activate lost_in_translation
 ```
 
 ### Data
