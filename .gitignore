@@ -14,9 +14,13 @@ mapping_sorted/*
 output_wgbstools/*
 wgbs_tools/*
 wgbs_tools
+plots_expr_prognosis/*
+plots_DE/*
+ChromFigs/*
 
 Check_TumorPurity.R
-
+InfiniumAnalysis_cox.R
+PanelAnalysis.R
 
 *.pptm
 Test*
